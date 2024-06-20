@@ -1,5 +1,5 @@
 <script>
-	import Cube from "$lib/Cube.svelte";
+  import App from '../lib/App.svelte';
 </script>
 
-<Cube />
+<App />
